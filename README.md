@@ -1,8 +1,9 @@
 # Doom Fire
 
 Resolvi fazer como exercício para aprender sobre JavaScript com um tutorial disposto pelo [Filipe Deschamps](https://github.com/filipedeschamps) com esse vídeo do [Fogo do DOOM](https://youtu.be/fxm8cadCqbs) e amei o resultado!
-
-![Demonstração da aplicação](demo/Fire-Doom.gif)
+<h1 align="center">
+    <img alt="Doom-Fire" src="demo/Fire-Doom.gif" width="500px" />
+</h1>
 
 ## Aprendizado
 
